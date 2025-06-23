@@ -1,0 +1,14 @@
+
+> vue-kavia@0.0.0 dev
+> vite dev --host 0.0.0.0 --port 3000
+
+
+  VITE v6.1.0  ready in 965 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.17.0.2:3000/
+  ➜  Vue DevTools: Open http://localhost:3000/__devtools__/ as a separate window
+  ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
+2:35:54 PM [vite] (client) hmr update /src/components/HelloWorld.vue
+2:36:01 PM [vite] (client) hmr update /src/views/HomeView.vue
+2:36:18 PM [vite] (client) hmr update /src/components/TicTacToeBoard.vue
